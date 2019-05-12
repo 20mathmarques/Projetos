@@ -20,7 +20,7 @@
 
 5- Nas pastas que aparecer clicar na de **MENU.php** e seguir o fluxo do site.
 
-Fluxo grama:
+Fluxograma:
 
 ```mermaid
 graph LR
