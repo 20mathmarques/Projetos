@@ -152,7 +152,7 @@
 				</p>
 
 				 <!--Button of search-->
-				 <input type="submit" name="search1" value="search"/>
+				 <input type="submit" name="search1" value="pesquisar"/>
 				 <!--Button of show-->
 
 		   		 <input class="show" type="submit" name="show1" value="Mostrar todos"/>
